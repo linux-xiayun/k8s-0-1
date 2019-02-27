@@ -1,7 +1,8 @@
 ### 环境说明
 系统：Centos 7.5.1804  
 内核：3.10.0-862.el7.x86_64  
-master1 为Master，master2既为Master也是Node，node1为Node
+master1 为Master，master2既为Master也是Node，node1为Node  
+kubernets版本为v1.13.1
 ```
 192.168.88.143 master1
 192.168.88.131 master2
